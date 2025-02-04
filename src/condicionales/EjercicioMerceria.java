@@ -35,9 +35,6 @@ public class EjercicioMerceria {
 			else {
 				System.out.println("No tiene costo de envio. ¡Muchas gracias por su compra!");
 			}
-		}
-		 
-		
+		} 
 	}
-
 }
